@@ -1,6 +1,9 @@
 # react-samples
 Sample code from learning React
 
+Assignment 1
+/base-syntax--assignment-problem
+
 Code based on meeting the following requirements:
 
 1. Create TWO new components: UserInput and UserOutput
