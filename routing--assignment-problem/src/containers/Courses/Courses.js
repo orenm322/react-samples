@@ -27,7 +27,7 @@ class Courses extends Component {
                                 <Link 
                                     to={
                                         {
-                                            pathname: "/courses/" + course.id,
+                                            pathname: this.props.match.url + '/' + course.id,
                                             search: "?title="+ course.title
                                         }
                                     } key={course.id}>
