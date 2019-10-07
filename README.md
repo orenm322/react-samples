@@ -39,3 +39,8 @@ Assignment 3
 6. Load the "Course" component as a nested component of "Courses"
 7. Add a 404 error page and render it for any unknown routes
 8. Redirect requests to /all-courses to /courses (=> Your "Courses" page)
+
+Assignment 4
+/redux--assignment-2-problem
+1. Turn this app into one which does NOT use local state (in components) but instead uses Redux
+
